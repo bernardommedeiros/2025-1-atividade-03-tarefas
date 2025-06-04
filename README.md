@@ -7,7 +7,7 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- aluno: FIXME
+- aluno: [Bernardo Medeiros](https://github.com/bernardommedeiros)
 
 ## Sumário
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Parte 1. Tutotirla introdutório de Dockerfile
+## Parte 1. Tutorial12we/ introdutório de Dockerfile
 
 **Tutorial Introdutório a Dockerfile** by [deepseek](https://chat.deepseek.com/).
 
