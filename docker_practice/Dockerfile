@@ -10,6 +10,10 @@ RUN dnf -y update && \
 # Cria um diretório para a aplicação
 RUN mkdir -p /app
 
+RUN dnf -y install gcc && dnf clean all
+
+RUN dnf -y install java-21-openjdk-devel && dnf clean all
+
 # Define o diretório de trabalho padrão
 WORKDIR /app
 

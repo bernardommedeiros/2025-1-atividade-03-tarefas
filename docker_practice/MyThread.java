@@ -31,6 +31,6 @@ public class MyThread extends Thread {
         // inicia a execução das threads
         for (int i = 0; i < NUM_THREADS; i++) {
             t[i].start () ;
-        }g
+        };
     }
 }
