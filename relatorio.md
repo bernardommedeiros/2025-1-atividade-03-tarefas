@@ -19,7 +19,7 @@ Executei um Dockerfile criado com base nas informações da proposta da atividad
 
 ### Execução do Container
 
-<img alt="build " src="./images/docker-exe.png"/>
+<img alt="build " src="./images/docker_exe.png"/>
 
 A partir da execução da imagem, o terminal fish foi inicializado, indicando que o ambiente isolado foi criado com sucesso.
 
@@ -27,12 +27,11 @@ A partir da execução da imagem, o terminal fish foi inicializado, indicando qu
 
 Uma vez que entrei no shell fish, compilei e executei códigos C e Java conforme citados no livro de suporte.
 
-<div>
-    <img alt="build " src="./images/fork-code.png"/>
-    <img alt="build " src="./images/process-code.png"/>
-    <img alt="build " src="./images/threads-code.png"/>
-    <img alt="build " src="./images/Java-thread.png"/>
-</div>
+<img alt="build " src="./images/fork-code.png"/>
+<img alt="build " src="./images/process-code.png"/>
+<img alt="build " src="./images/threads-code.png"/>
+<img alt="build " src="./images/Java-thread.png"/>
+
 
 ## 3. Conclusão
 A prática foi extremamente útil para entender como o Docker pode ser utilizado para criar ambientes consistentes de desenvolvimento, especialmente em linguagens compiladas como C. A construção da imagem e o mapeamento do diretório facilitaram a organização e execução do código sem depender de configurações específicas do sistema operacional.
